@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.token {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  display: inline-block;
+}
