@@ -119,7 +119,7 @@ const Home: NextPage = () => {
           rel="noopener noreferrer"
           style={{ paddingLeft: 30 }}
         >
-          Color Tokens
+          Color Tokens 
         </a>
 
         <ul className="navbar-nav px-3">
